@@ -10,15 +10,15 @@ I have worked across industries like finance, healthcare, investment, and market
 - Experiment with latest trends in web technologies, focusing on performance and user experience.
 
 #### Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-gray?logo=react&logoColor=white&style=flat-square)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-gray?logo=angular&logoColor=white&style=flat-square)](https://angular.io/)
+[![Node.js](https://img.shields.io/badge/Node.js-gray?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 
 #### Latest Posts
 
-- **[A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)**
+- [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
 
 #### Get in Touch
 - [Website](https://willyelm.com)
