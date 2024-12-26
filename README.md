@@ -4,11 +4,6 @@ I’m a **Software Engineer** passionate about building intuitive, high-performa
 
 I have worked across industries like finance, healthcare, investment, and marketing, and I’m always excited about opportunities to learn and push the boundaries of modern web development.
 
-#### What I Do
-- Specialize in web development using **React**, **Angular**, **Web Components** to build efficient and interactive web applications.
-- Focus on performance, scalability, and user experience.
-- Experiment with latest trends in web technologies, focusing on performance and user experience.
-
 #### Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
