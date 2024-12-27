@@ -8,7 +8,6 @@ I have worked across industries like finance, healthcare, investment, and market
 [![React](https://img.shields.io/badge/React-%23262626?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
 [![Angular](https://img.shields.io/badge/Angular-%23262626?logo=angular&logoColor=white&style=for-the-badge)](https://angular.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-%23262626?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%23262626?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
 [![Docker](https://img.shields.io/badge/-Docker-%23262626?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Next.js](https://img.shields.io/badge/-Next.js-%23262626?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org/)
 [![Custom Elements](https://img.shields.io/badge/-Custom%20Elements-%23262626?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
