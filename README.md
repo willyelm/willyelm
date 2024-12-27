@@ -19,6 +19,3 @@ I have worked across industries like finance, healthcare, investment, and market
 
 - [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
 
-#### Get in Touch
-- [Website](https://willyelm.com)
-- [LinkedIn](https://www.linkedin.com/in/willyelm/)
