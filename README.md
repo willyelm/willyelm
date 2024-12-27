@@ -1,6 +1,6 @@
 I’m Will Medina a **Software Engineer** passionate about building intuitive, high-performance web applications. With over a decade of experience, I specialize in modern web technologies to create user-friendly solutions.
 
-I have worked across industries like finance, healthcare, investment, and marketing, and I’m always excited about opportunities to learn and push the boundaries of modern web development.
+I have contributed to industries like finance, healthcare, investment, and marketing, and I’m always excited about opportunities to learn and push the boundaries of modern web development.
 
 #### Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23262626?logo=javascript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
