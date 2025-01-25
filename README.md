@@ -3,7 +3,7 @@ I am passionate about building intuitive, high-performance web applications. Wit
 
 I have contributed to different industries like finance, healthcare, investment, and marketing, and I’m always excited about opportunities to learn and push the boundaries of modern web development.
 
-#### Tech Stack
+#### Tech
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23262626?logo=javascript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23262626?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-%23262626?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
@@ -15,7 +15,7 @@ I have contributed to different industries like finance, healthcare, investment,
 [![ARIA](https://img.shields.io/badge/-ARIA-%23262626?logo=w3c&logoColor=white&style=for-the-badge)](https://www.w3.org/WAI/ARIA/)
 [![Playwright](https://img.shields.io/badge/-Playwright-%23262626?logo=playwright&logoColor=white&style=for-the-badge)](https://playwright.dev/)
 
-#### Latest Posts
+#### Posts
 
 - [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
 
