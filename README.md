@@ -1,4 +1,3 @@
-## Hi, I’m Will Medina
 I am passionate about building intuitive, high-performance web applications. With over a decade of experience, I specialize in modern web technologies to create user-friendly solutions.
 
 I have contributed to different industries like finance, healthcare, investment, and marketing, and I’m always excited about opportunities to learn and push the boundaries of modern web development.
