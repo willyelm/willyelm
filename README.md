@@ -17,5 +17,6 @@ I have contributed to industries like finance, healthcare, investment, and marke
 -->
 #### Posts
 
+- [Beyond Components and Design Tokens](https://willyelm.com/blog/beyond-components)
 - [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
 
