@@ -1,6 +1,6 @@
-I am dedicated to building intuitive, high-performance web applications. With over a decade of experience in UI, UX, software development, design and architecture, I specialize in modern web technologies to create user-friendly solutions.
+Currently building UI development platforms, design systems, tools and more [@ssctech](https://www.ssctech.com), previously led and contributed to the JavaScript SpiderMonkey engine team [@mozilla](https://www.mozilla.org). I’m always excited about opportunities to learn and push the boundaries of modern web development. 
 
-I have contributed to industries like finance, healthcare, investment, and marketing, and I’m always excited about opportunities to learn and push the boundaries of modern web development.
+When away from my desk, you'll find me exploring the outdoors of Colorado.
 
 <!--
 #### Tech
@@ -15,7 +15,8 @@ I have contributed to industries like finance, healthcare, investment, and marke
 [![ARIA](https://img.shields.io/badge/-ARIA-%23262626?logo=w3c&logoColor=white&style=for-the-badge)](https://www.w3.org/WAI/ARIA/)
 [![Playwright](https://img.shields.io/badge/-Playwright-%23262626?logo=playwright&logoColor=white&style=for-the-badge)](https://playwright.dev/)
 -->
-#### Posts
+
+### Latest Posts
 
 - [Beyond Components and Design Tokens](https://willyelm.com/blog/beyond-components)
 - [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
