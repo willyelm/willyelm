@@ -18,7 +18,7 @@ When away from my desk, you'll find me exploring the outdoors of Colorado.
 
 ### Latest Posts
 
-- [The Way Back to the Terminal: Reclaiming Engineering Leverage](https://willyelm.com/blog/back-to-the-terminal)
+- [The Way Back to the Terminal](https://willyelm.com/blog/back-to-the-terminal)
 - [Beyond Components and Design Tokens](https://willyelm.com/blog/beyond-components)
 - [A Simple Approach to SSR with React 19 and esbuild](https://dev.to/willyelm/a-simple-approach-to-ssr-with-react-19-and-esbuild-26e5)
 
