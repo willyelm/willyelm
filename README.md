@@ -1,4 +1,4 @@
-Currently building UI development platforms, design systems, tools and more [@ssctech](https://www.ssctech.com), previously led and contributed to the JavaScript SpiderMonkey engine team [@mozilla](https://www.mozilla.org). I’m always excited about opportunities to learn and push the boundaries of modern web development. 
+I work on the systems behind interfaces: design systems, UI platforms, interaction specifications, and tooling grounded in HCI research and more @blueorigin, previously led and contributed to the JavaScript SpiderMonkey engine team [@mozilla](https://www.mozilla.org). I’m always excited about opportunities to learn and push the boundaries of modern web development. 
 
 When away from my desk, you'll find me exploring the outdoors of Colorado.
 
